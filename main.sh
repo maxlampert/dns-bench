@@ -25,6 +25,7 @@ declare -A DNS_SERVERS=(
   ["Comodo"]="8.26.56.26"
   ["Level3"]="4.2.2.2"
   ["ControlD"]="76.76.2.0"
+  ["DNS.SB"]="185.222.222.222"
 )
 
 # Test domains - popular websites
