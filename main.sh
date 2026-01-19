@@ -26,6 +26,7 @@ declare -A DNS_SERVERS=(
   ["Level3"]="4.2.2.2"
   ["ControlD"]="76.76.2.0"
   ["DNS.SB"]="185.222.222.222"
+  ["NextDNS"]="45.90.28.96"
 )
 
 # Test domains - popular websites
